@@ -1,7 +1,7 @@
 <p align="center">
     Specialized in realtime 3D simulation and rendering. Discord enthusiast and Python lover.
     <br/>
-    Currently working on a Vulkan based data oriented game engine.  
+    Currently working on a fully asynchronous Vulkan based data oriented game engine.  
 </p>
 
 -----
