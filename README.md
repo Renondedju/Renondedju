@@ -1,8 +1,8 @@
 <p align="center">
-    Specialized in real-time 3D simulation and rendering.
+    📦 Specializing in real-time 3D simulation and rendering.
     <br/>
-    I am currently working on a fully asynchronous Vulkan-based data-oriented game engine.
-    I also occasionally do some embarked code.
+    🕹 I am currently working on a fully asynchronous Vulkan-based data-oriented game engine.
+    I also occasionally do some embedded code.
 </p>
 
 -----
